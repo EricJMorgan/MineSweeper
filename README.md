@@ -1,2 +1,2 @@
-# MineSweeper_Highschool
-A copy of my minesweeper game developed in java for a high school programming course
+# MineSweeper
+A version of minesweeper created in Java. This game can be played on any windows 7 or 10 based machine with a java runtime environment installed.
